@@ -1,0 +1,14 @@
+---
+layout: layouts/default.njk
+---
+<ul>
+{% for item in zaprzyjaznione %}
+  <li class="mt-0">
+    <h2 class="h3 mb-4"><a href="{{ item.link }}">{{ item.nazwa }}</a></h3>
+    {{ item.opis | md | safe }}
+    {% if item.logo %}
+      <a href="{{ item.link }}" class="block pr-4 md:pr-0"><img src="/img/{{ item.logo }}" alt="{{ item.nazwa }} – logo" class="mt-4 sm:mt-8 md:mt-12 mb-6" loading="lazy"></a>  
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>

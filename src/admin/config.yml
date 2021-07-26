@@ -1,0 +1,133 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: "src/img"
+public_folder: "/img"
+slug:
+  encoding: "ascii"
+  clean_accents: true
+collections:
+  - label: "Strony"
+    name: "strony"
+    files:
+    - label: "Strona główna"
+      name: "home"
+      file: "src/index.md"
+      fields:
+        - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/home.njk" }
+        - { label: "Tytuł", name: "title", widget: "string" }
+        - { label: "Treść", name: "body", widget: "markdown" }
+    - label: "O kulturze i naturze"
+      name: "o-kulturze-i-naturze"
+      file: "src/o-kulturze-i-naturze.md"
+      fields:
+        - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/default.njk" }
+        - { label: "Tytuł", name: "title", widget: "string" }
+        - label: "Pozycja w menu"
+          name: "eleventyNavigation"
+          widget: "object"
+          fields:
+            - { label: "Tekst", name: "key", widget: "string" }
+            - { label: "Kolejność", name: "order", widget: "number" }
+        - { label: "Treść", name: "body", widget: "markdown" }
+    - label: "Wyprawy i spacery"
+      name: "wyprawy-i-spacery"
+      file: "src/wyprawy-i-spacery.md"
+      fields:
+        - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/wyprawy.njk" }
+        - { label: "Tytuł", name: "title", widget: "string" }
+        - label: "Pozycja w menu"
+          name: "eleventyNavigation"
+          widget: "object"
+          fields:
+            - { label: "Tekst", name: "key", widget: "string" }
+            - { label: "Kolejność", name: "order", widget: "number" }
+        - { label: "Wstęp", name: "wstep", widget: "markdown" }
+        - label: "Wyprawy"
+          name: "wyprawy"
+          widget: "list"
+          fields:
+            - { label: "Tytuł", name: "tytul", widget: "string" }
+            - label: "Foto"
+              name: "foto"
+              widget: "object"
+              fields:
+                - { label: "Plik", name: "plik", widget: "string" }
+                - { label: "Opis", name: "opis", widget: "string" }
+            - { label: "Iludniowa", name: "iludniowa", widget: "string" }
+            - { label: "Opis", name: "opis", widget: "markdown" }            
+        - { label: "Treść", name: "body", widget: "markdown" }
+    - label: "Wykłady i prelekcje"
+      name: "wyklady-i-prelekcje"
+      file: "src/wyklady.md"
+      fields:
+        - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/wyklady.njk" }
+        - { label: "Tytuł", name: "title", widget: "string" }
+        - label: "Pozycja w menu"
+          name: "eleventyNavigation"
+          widget: "object"
+          fields:
+            - { label: "Tekst", name: "key", widget: "string" }
+            - { label: "Kolejność", name: "order", widget: "number" }
+        - label: "Wykłady"
+          name: "wyklady"
+          widget: "list"
+          fields:
+            - { label: "Tytuł", name: "tytul", widget: "string" }
+            - { label: "Opis", name: "opis", widget: "markdown" }            
+        - { label: "Treść", name: "body", widget: "markdown" }
+    - label: "Badania"
+      name: "badania"
+      file: "src/badania.md"
+      fields:
+        - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/default.njk" }
+        - { label: "Tytuł", name: "title", widget: "string" }
+        - label: "Pozycja w menu"
+          name: "eleventyNavigation"
+          widget: "object"
+          fields:
+            - { label: "Tekst", name: "key", widget: "string" }
+            - { label: "Kolejność", name: "order", widget: "number" }
+        - { label: "Treść", name: "body", widget: "markdown" }
+    - label: "Zaprzyjaźnione"
+      name: "zaprzyjaznione"
+      file: "src/zaprzyjaznione.md"
+      fields:
+        - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/zaprzyjaznione.njk" }
+        - { label: "Tytuł", name: "title", widget: "string" }
+        - label: "Pozycja w menu"
+          name: "eleventyNavigation"
+          widget: "object"
+          fields:
+            - { label: "Tekst", name: "key", widget: "string" }
+            - { label: "Kolejność", name: "order", widget: "number" }
+        - label: "Zaprzyjaźnione"
+          name: "zaprzyjaznione"
+          widget: "list"
+          fields:
+            - { label: "Nazwa", name: "nazwa", widget: "string" }
+            - { label: "Opis", name: "opis", widget: "markdown" }
+            - { label: "Link", name: "link", widget: "string" }
+            - { label: "Logo", name: "logo", widget: "string" }
+  - label: "Napisane"
+    name: "napisane"
+    folder: "src/napisane"
+    create: true
+    fields:
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Treść", name: "body", widget: "markdown" }
+  - label: "Z życia Kultury i Natury"
+    name: "z-zycia-kultury-i-natury"
+    folder: "src/z-zycia-kultury-i-natury"
+    create: true
+    fields:
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Data", name: "date", widget: "date", format: "YYYY-MM-DD" }
+      - label: "Foto (opcjonalne)"
+        name: "foto"
+        widget: "object"
+        fields:
+          - { label: "Plik", name: "plik", widget: "string" }
+          - { label: "Opis", name: "opis", widget: "string" }
+          - { label: "Podpis", name: "podpis", widget: "string" }
+      - { label: "Treść", name: "body", widget: "markdown" }

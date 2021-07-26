@@ -1,0 +1,10 @@
+---
+title: Czy da się pokochać gryzonia?
+---
+Na łąkach południowej Polski możemy spotkać zwierzęta znane z dobrego snu – susły. Na Zamojszczyźnie susła perełkowanego, a na Śląsku Dolnym i Opolskim moręgowanego. Perełkowany w Polsce osiąga zachodnią granicę występowania i znany jest tylko z kilku stanowisk, w większości podlegających ochronie. Ostatnimi czasy przeżywa on pewne kłopoty, z powodu załamania się liczebności jego największej koloni, na lotnisku w Świdniku, ale na pozostałych stanowiska wiedzie mu się nieco lepiej. Mniej szczęścia miał suseł moręgowany, który wyginął w Polsce w latach 70 XX w., na skutek zaorania łąk i nadużywania środków ochrony roślin. Szczęśliwie od 2004 r. realizowany jest program reintrodukcji (przywracania) tych zwierząt i wszystko wskazuje na to, że się on powiedzie. Miejscowi rolnicy sprzyjają programowi, ponieważ zwierze nie wyrządza większych szkód i stało się… źródłem dodatkowego dochodu! Do miejsc uwolnienia susłów coraz częściej przybywają turyści, rządni spotkana z tym zwierzęciem. Oczywiście oba gatunki są ściśle chronione.
+
+Powróćmy do chomika europejskiego, który szybko znika z naszych pół i łąk, a naukowcy coraz częściej myślą o przyszłej reintrodukcji. O wiele taniej utrzymać zwierzę, niż je później przywracać, więc czas pomyśleć o rezerwatach agrarnych, proponowanej, nowej formie ochrony przyrody, gdzie rolnik dostawałby pieniądze za nieintensywną uprawę ziemi. Rolnictwo bez orkowe śmiało można zaliczyć do technik sprzyjających występowaniu chomików i innych gryzoni (na świeżo zaoranych polach niemal ich nie ma). A tam, gdzie są norniki, myszy i chomiki, tam są ich naturalni wrogowie – puszczyki, pójdźki (ginące w Polsce), myszołowy, kuny czy borsuki. Takie rolnictwo sprzyja też innym gatunkom, np. zanikającym kuropatwom i zającom. Korzyści odniesie przyroda, rolnik i miejscowa społeczność, bo im bardziej tradycyjny krajobraz i im więcej zwierząt, tym większa szansa na coraz modniejszą turystykę przyrodniczą.
+
+***
+
+Całość w numerze 5 z 2018 roku czasopisma „Bez pługa”.

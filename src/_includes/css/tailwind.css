@@ -1,0 +1,129 @@
+@tailwind base;
+@font-face { font-family: 'Vollkorn'; font-style: normal; font-weight: 400; src: local(''), url('../fonts/vollkorn-v12-latin-ext-regular.woff2') format('woff2'), url('../fonts/vollkorn-v12-latin-ext-regular.woff') format('woff'); }
+@font-face { font-family: 'Vollkorn'; font-style: normal; font-weight: 700; src: local(''), url('../fonts/vollkorn-v12-latin-ext-700.woff2') format('woff2'), url('../fonts/vollkorn-v12-latin-ext-700.woff') format('woff'); }
+@font-face { font-family: 'Vollkorn'; font-style: italic; font-weight: 400; src: local(''), url('../fonts/vollkorn-v12-latin-ext-italic.woff2') format('woff2'), url('../fonts/vollkorn-v12-latin-ext-italic.woff') format('woff'); }
+@font-face { font-family: 'Vollkorn'; font-style: italic; font-weight: 700; src: local(''), url('../fonts/vollkorn-v12-latin-ext-700italic.woff2') format('woff2'), url('../fonts/vollkorn-v12-latin-ext-700italic.woff') format('woff'); }
+@font-face { font-family: 'Vollkorn SC'; font-style: normal; font-weight: 700; src: local('Vollkorn SC Bold'), local('VollkornSC-Bold'), url('../fonts/vollkorn-sc-v4-latin-ext-700.woff2') format('woff2'), url('../fonts/vollkorn-sc-v4-latin-ext-700.woff') format('woff'); }
+@font-face { font-family: 'Amatic SC'; font-style: normal; font-weight: 700; src: local('Amatic SC Bold'), local('AmaticSC-Bold'), url('../fonts/amatic-sc-v15-latin-ext-700.woff2') format('woff2'), url('../fonts/amatic-sc-v15-latin-ext-700.woff') format('woff'); }
+
+html {
+  background: #ececec url(../../img/papier.png) repeat;
+}
+.logo {
+  width: 120px;
+  @screen sm {
+    width: 160px;
+  }
+}
+main, article {
+  & > * {
+    @apply my-0;
+    & + * {
+      @apply mt-8;
+    }
+    & + figure, 
+    & + img {
+      @apply my-8;
+      @screen sm {
+        @apply my-12;
+      }
+      @screen md {
+        @apply my-16;
+      }
+    }
+  }
+  p, h2, h3, ul, ol {
+    @apply max-w-4xl mx-auto;
+  }
+  figure, img {
+    @apply mx-auto max-w-full;
+  }
+  a {
+    @apply underline;
+    text-decoration-color: theme('colors.green.600');
+    text-decoration-thickness: 3px;
+    text-decoration-style: dotted;
+    &:hover, &:focus {
+      @apply text-green-600;
+    }
+  }
+}
+ol, ul { 
+  @apply pl-6;
+}
+ul {
+  @apply list-disc;
+}
+ol {
+  @apply list-decimal;
+}
+h1 {
+  @apply text-4xl font-bold leading-tight max-w-5xl mx-auto mb-6;
+  @screen sm {
+    @apply text-5xl mb-12;
+  }
+  @screen md {
+    @apply text-6xl mb-20;
+  }
+}
+h2 {
+  @apply text-3xl font-bold mt-8 leading-tight;
+  @screen sm {
+    @apply text-4xl mt-12;
+  }
+  @screen md {
+    @apply text-5xl mt-16;
+  }
+}
+h3, .h3 {
+  @apply text-2xl font-bold mt-4;
+  @screen sm {
+    @apply text-3xl mt-8;
+  }
+  @screen md {
+    @apply text-4xl mt-12;
+  }
+}
+time {
+  @apply block text-xl text-gray-600 mx-auto;
+  @screen sm {
+    @apply text-2xl;
+  }
+}
+time + h1 {
+  @apply mt-4;
+}
+time + h2 {
+  @apply mt-3;
+}
+hr {
+  @apply border-b border-gray-800 border-dashed opacity-50 my-8;
+  @screen sm {
+    @apply my-12;  }
+  @screen md {
+    @apply my-20;
+  }
+}
+figcaption {
+  @apply text-gray-800 font-hand text-xl font-bold text-center mt-6 opacity-50;
+  @screen sm {
+    @apply text-2xl;
+  }
+  @screen md {
+    @apply text-3xl;
+  }
+}
+@tailwind components;
+.caps {
+  @apply font-caps font-bold lowercase;
+}
+.multiply {
+  mix-blend-mode: multiply;
+}
+.rotate-l {
+  transform: rotate(-3deg)
+}
+.rotate-r {
+  transform: rotate(3deg)
+}
+@tailwind utilities;

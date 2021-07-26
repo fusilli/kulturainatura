@@ -1,0 +1,4 @@
+node_modules
+dist
+.netlify
+src/assets/css/styles.css

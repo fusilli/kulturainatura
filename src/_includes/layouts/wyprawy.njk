@@ -1,0 +1,14 @@
+---
+layout: layouts/default.njk
+---
+{{ wstep | md | safe }}
+{% for item in wyprawy %}
+  <h2 class="-mb-6">{{ item.tytul }}</h2>
+  <p class="italic">Wycieczka {{ item.iludniowa }}</p>
+  {% if item.foto.plik %}
+    <img src="/img/{{ item.foto.plik }}" alt="{% if item.foto.opis %}{{ item.foto.opis }}{% endif %}" class="bg-yellow-100 p-2 sm:p-3 shadow-lg rotate-l mt-4 w-10/12" loading="lazy">
+  {% endif %}
+  {{ item.opis | md | safe }}
+  <hr>
+{% endfor %}
+{{ content | safe }}

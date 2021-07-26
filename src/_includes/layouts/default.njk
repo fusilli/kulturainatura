@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+---
+{% if date %}
+  <time class="max-w-5xl">{{ date | polskadata }}</time>
+{% endif %}
+<h1>{{ title }}</h1>
+{% if foto.plik %}
+  <figure class="px-6 sm:px-0 mt-3">
+    <img src="/img/{{ foto.plik }}" alt="{{ foto.opis }}" class="bg-yellow-100 p-2 sm:p-3 shadow-lg rotate-r" loading="lazy">
+    {% if foto.podpis %}
+      <figcaption>{{ foto.podpis }}</figcaption>          
+    {% endif %}
+  </figure>
+{% endif %}
+{{ content | safe }}

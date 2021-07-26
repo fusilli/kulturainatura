@@ -1,0 +1,11 @@
+---
+title: Nie trafiłeś na dudka
+---
+Jeśli wierzyć polszczyźnie, to czubaty ptak nie jest wzorem odwagi. Pamiętam z przedszkola, jak dzieci wołały „bojący dudek” na osobę, która np. nie chciała wejść na drzewo. Można zrozumieć, że dudek ma powody do obaw. Nie jest ptakiem specjalnie okazałym, osiąga rozmiary zbliżone do kosa, a to czyni go ponętnym kąskiem dla sokołów czy jastrzębi. Dudek jest ptakiem niezwykle kolorowym, jednak jego rudo-czarno-białe ubarwienie, choć kontrastowe, czyni go trudnym do wypatrzenia, toteż częściej go słychać, niż widać. Pomaga mu to w unikaniu bliższych spotkań z ptakami drapieżnymi. Gdy podczas żerowania na łące dostrzeże sokoła, kładzie się płasko na ziemi, unosząc w górę długi, cienki dziób, który sprawia wrażenie wyschniętej trawy. Kontrastowe ubarwienie układa się w podłużne, czarno-białe pasy, co powoduje rozmycie kształtów. Taką strategię kamuflażu wykorzystano w czasie II wojny światowej, wprowadzając podłużne maskowanie obiektów strategicznych, a później także mundurów. Na tym jednak nie kończą się sposoby, które dudek stosuje, by przetrwać.
+
+Lot, w który ptak wprawia się nierównomiernymi ruchami skrzydeł – po kilku szybkich uderzeniach następuje kilka wolnych, przez co jest nieco chwiejny – sprawia wrażenie niepewnego, porównywany bywa do lotu motyla. Dudek potrafi jednak świetnie sobie radzić w spotkaniach z drapieżnikami. Jest, wbrew pozorom, niezwykle sprawnym lotnikiem i zaatakowany w powietrzu tak manewruje, że potrafi wymknąć się nawet najlepszym „myśliwcom”. Oskar Heinroth, niemiecki ornitolog z pierwszej połowy XX w., pozostawił wspomnienia z rejsu po Morzu Czerwonym, a w nich opowieść o umiejętnościach lotniczych naszego bohatera. We wspomnieniach Heinrotha czytamy o dudku, który przysiadł na maszcie statku, by odpocząć w czasie wędrówki. Wkrótce pojawiły się dwa sokoły wędrowne, słynące z niezwykłej szybkości i bardzo wysokiej skuteczności podczas łowów. Widząc, co się święci, doświadczony ornitolog żegnał już dudka. Ten jednak, pomimo ponawianych ataków, tak zwinnie wywijał się napastnikom, że ci dali za wygraną.
+
+***
+
+Całość w magazynie „Nowe Peryferie”  
+<https://nowe-peryferie.pl/index.php/2017/04/nie-trafiles-na-dudka/>

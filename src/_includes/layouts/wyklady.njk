@@ -1,0 +1,15 @@
+---
+layout: layouts/default.njk
+---
+<ul>
+{% for item in wyklady %}
+  <li class="mt-0">
+    <h2 class="h3">{{ item.tytul }}</h2>
+    {% if item.opis %}
+    {{ item.opis | md | safe }}      
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+<hr>
+{{ content | safe }}

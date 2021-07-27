@@ -3,8 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title></title>
-  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="canonical" href="https://www.kulturainatura.pl{{ page.url }}">
+  <title>Kultura i Natura{% if not page.fileSlug == "" %} – {{ title }}{% endif %}</title>
+  <meta name="description" content="">
+  {% if kulturainatura.environment == "production" %}
+    {%- set css -%}{%- include "../../assets/css/styles.css" -%}{%- endset -%}
+    <style>{{ css | safe }}</style>
+  {% else %}
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  {% endif %}
+    <meta property="og:url" content="https://www.kulturainatura.pl{{ page.url }}">
+    <meta property="og:title" content="Kultura i Natura{% if not page.fileSlug == "" %} – {{ title }}{% endif %}">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="{%- if foto.plik -%}/img/{{ foto.plik }}{%- else -%}/img/og-image.jpg{%- endif -%}">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="pl_PL">
   {% if page.url == "/" -%}
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {%- endif %}
@@ -36,9 +49,9 @@
       {{ content | cudzyslowy | sierotki | safe }}
     </main>
   </div>
-  <footer class="flex justify-end md:justify-between items-end">
-    <img id="zwierzak" src="/img/{{ ["los", "bobr", "jemioluszka", "krogulec", "kruk"] | random }}.jpg" alt="" class="hidden md:block multiply" loading="lazy">
-    <img src="/img/malec.jpg" alt="" class="multiply" loading="lazy">
+  <footer class="flex md:justify-between items-end">
+    <img id="zwierzak" src="/img/{{ ["los", "bobr", "jemioluszka", "krogulec", "kruk"] | random }}.jpg" alt="" class="multiply" loading="lazy">
+    <img src="/img/malec.jpg" alt="" class="hidden md:block multiply" loading="lazy">
   </footer>
   <script>
   var zwierzaki = ["los", "bobr", "jemioluszka", "krogulec", "kruk"];

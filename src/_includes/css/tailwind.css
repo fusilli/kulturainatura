@@ -7,7 +7,7 @@
 @font-face { font-family: 'Amatic SC'; font-style: normal; font-weight: 700; src: local('Amatic SC Bold'), local('AmaticSC-Bold'), url('/assets/fonts/amatic-sc-v15-latin-ext-700.woff2') format('woff2'), url('/assets/fonts/amatic-sc-v15-latin-ext-700.woff') format('woff'); }
 
 html {
-  background: #ececec url(../../img/papier.png) repeat;
+  background: #ececec url(/img/papier.png) repeat;
 }
 .logo {
   width: 120px;

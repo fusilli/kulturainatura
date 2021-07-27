@@ -20,8 +20,8 @@ Wyżej wspomniałem o wplataniu gałązek w gniazdo przez orliki, ale czynią ta
 ***
 
 <figure class="px-6 sm:px-0">
-<img src="/img/mysliwce-zycie-ptakow-drapieznych.jpg" alt="ortolan" class="shadow-lg rotate-r max-w-lg">
-<figcaption>Okładka książki „Myśiwce. Życie ptaków drapieżnych”</figcaption>
+<img src="/img/mysliwce-zycie-ptakow-drapieznych.jpg" alt="ortolan" class="shadow-lg rotate-r max-w-lg" loading="lazy" width="620" height="1000">
+<figcaption>Okładka książki „Myśliwce. Życie ptaków drapieżnych”</figcaption>
 </figure>
 
 Książkę można nabyć w Wydawnictwie Czarne  

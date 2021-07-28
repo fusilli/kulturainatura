@@ -1,5 +1,6 @@
 ---
 title: Nie trafiłeś na dudka
+date: 2021-06-06
 ---
 Jeśli wierzyć polszczyźnie, to czubaty ptak nie jest wzorem odwagi. Pamiętam z przedszkola, jak dzieci wołały „bojący dudek” na osobę, która np. nie chciała wejść na drzewo. Można zrozumieć, że dudek ma powody do obaw. Nie jest ptakiem specjalnie okazałym, osiąga rozmiary zbliżone do kosa, a to czyni go ponętnym kąskiem dla sokołów czy jastrzębi. Dudek jest ptakiem niezwykle kolorowym, jednak jego rudo-czarno-białe ubarwienie, choć kontrastowe, czyni go trudnym do wypatrzenia, toteż częściej go słychać, niż widać. Pomaga mu to w unikaniu bliższych spotkań z ptakami drapieżnymi. Gdy podczas żerowania na łące dostrzeże sokoła, kładzie się płasko na ziemi, unosząc w górę długi, cienki dziób, który sprawia wrażenie wyschniętej trawy. Kontrastowe ubarwienie układa się w podłużne, czarno-białe pasy, co powoduje rozmycie kształtów. Taką strategię kamuflażu wykorzystano w czasie II wojny światowej, wprowadzając podłużne maskowanie obiektów strategicznych, a później także mundurów. Na tym jednak nie kończą się sposoby, które dudek stosuje, by przetrwać.
 

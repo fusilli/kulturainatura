@@ -1,5 +1,6 @@
 ---
 title: Nieludzkim głosem
+date: 2021-06-26
 ---
 By posługiwać się głosem, konieczny jest aparat nadawczy, np. wspomniana paszcza. Skoro emitujemy dźwięk, liczymy, że ktoś go odbierze i zrozumie, konieczny jest więc aparat odbiorczy. Dla ludzi to spore zaskoczenie, że większość świata zwierząt jest głucha. Spośród owadów, stanowiących trzy czwarte świata zwierząt, tylko niewielka grupa ma słuch. Wśród sześcionożnych organizmów do nielicznych posiadaczy słuchu należą prostoskrzydłe, których przedstawicielami są pasikoniki. Zmysł słuchu powstał u nich bez związku z naszymi uszami i zupełnie inaczej zlokalizowane są aparaty odbiorcze, zwane narządem tympanalnym. Zapewne pasikoniki dziwią się, że nosimy uszy na głowie, one mają je na goleniach. Do wydawania głosów nie używają też jamy gębowej, lecz posługują się strydulacją – czyli pocieraniem różnych części ciała o siebie, np. nogi o skrzydło, skrzydła o drugie skrzydło czy, jak niektóre pluskwiaki, penisa o podbrzusze.
 

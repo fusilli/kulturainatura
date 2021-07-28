@@ -1,5 +1,6 @@
 ---
 title: Czy da się pokochać gryzonia?
+date: 2021-06-07
 ---
 Na łąkach południowej Polski możemy spotkać zwierzęta znane z dobrego snu – susły. Na Zamojszczyźnie susła perełkowanego, a na Śląsku Dolnym i Opolskim moręgowanego. Perełkowany w Polsce osiąga zachodnią granicę występowania i znany jest tylko z kilku stanowisk, w większości podlegających ochronie. Ostatnimi czasy przeżywa on pewne kłopoty, z powodu załamania się liczebności jego największej koloni, na lotnisku w Świdniku, ale na pozostałych stanowiska wiedzie mu się nieco lepiej. Mniej szczęścia miał suseł moręgowany, który wyginął w Polsce w latach 70 XX w., na skutek zaorania łąk i nadużywania środków ochrony roślin. Szczęśliwie od 2004 r. realizowany jest program reintrodukcji (przywracania) tych zwierząt i wszystko wskazuje na to, że się on powiedzie. Miejscowi rolnicy sprzyjają programowi, ponieważ zwierze nie wyrządza większych szkód i stało się… źródłem dodatkowego dochodu! Do miejsc uwolnienia susłów coraz częściej przybywają turyści, rządni spotkana z tym zwierzęciem. Oczywiście oba gatunki są ściśle chronione.
 

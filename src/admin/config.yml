@@ -120,6 +120,7 @@ collections:
     create: true
     fields:
       - { label: "Tytuł", name: "title", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime", date_format: "YYYY-MM-DD" }
       - { label: "Treść", name: "body", widget: "markdown" }
   - label: "Z życia Kultury i Natury"
     name: "z-zycia-kultury-i-natury"
@@ -127,7 +128,7 @@ collections:
     create: true
     fields:
       - { label: "Tytuł", name: "title", widget: "string" }
-      - { label: "Data", name: "date", widget: "date", format: "YYYY-MM-DD" }
+      - { label: "Data", name: "date", widget: "datetime", date_format: "YYYY-MM-DD" }
       - label: "Foto (opcjonalne)"
         name: "foto"
         widget: "object"

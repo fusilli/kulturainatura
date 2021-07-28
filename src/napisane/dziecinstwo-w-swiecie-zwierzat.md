@@ -1,5 +1,6 @@
 ---
 title: Dzieciństwo w świecie zwierząt
+date: 2021-06-10
 ---
 Małe wilczki przychodzą na świat w norze. Początkowo nie mają sierści, są ślepe i głuche. W tym czasie bez przerwy jest przy nich mama, która je tuli, by nie zmarzły i karmi mlekiem. Pozostali członkowie rodziny, zwanej watahą, przynoszą mamie pokarm.
 

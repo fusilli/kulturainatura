@@ -1,5 +1,6 @@
 ---
 title: Mały wielki wąż – gniewosz plamisty
+date: 2021-06-18
 ---
 W kwietniu, kiedy jest już całkiem ciepło, gniewosze budzą się ze snu zimowego i wkrótce hormony uderzają im do głowy. Miesiącem szczególnie namiętnym jest maj, choć niektórym osobnikom jeszcze w czerwcu amory chodzą po głowie. W cieplejszych rejonach Europy, wężowy sezon na miłość może mieć miejsce nawet dwa razy w roku, za to w zimniejszych zaledwie raz na dwa lata, przynajmniej dla pań, dla których konsekwencje schadzek są bardziej wyczerpujące. W tym czasie panowie stają się bardzo ruchliwi (nic dziwnego, w końcu ruszyli na podryw) i agresywni. Kiedy spotkają innego, napakowanego testosteronem samca, dochodzi do bójki, podczas której chłopaki wzajemnie się kąsają. Samo uwodzenie partnerki nie należy do najbardziej romantycznych, macho łapie ją zębami za szyję, co wygląda jakby na nią polował. Następnie sycząc, intensywnie i długo ociera się o wybrankę. W czasie samego zbliżenia węże splatają się tylną częścią ciała.
 

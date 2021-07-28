@@ -1,5 +1,6 @@
 ---
 title: Zaduszki
+date: 2021-06-25
 ---
 Spośród rodzimych kręgowców całkowicie wymarły dwa: tur i tarpan. Wprawdzie oba wyginęły przed wojną, ale podejmowane próby ich zachowania stawiały nasze państwo w awangardzie walki o ochronę przyrody.
 

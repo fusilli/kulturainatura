@@ -26,6 +26,7 @@ collections:
         - label: "Pozycja w menu"
           name: "eleventyNavigation"
           widget: "object"
+          collapsed: true
           fields:
             - { label: "Tekst", name: "key", widget: "string" }
             - { label: "Kolejność", name: "order", widget: "number" }
@@ -39,6 +40,7 @@ collections:
         - label: "Pozycja w menu"
           name: "eleventyNavigation"
           widget: "object"
+          collapsed: true
           fields:
             - { label: "Tekst", name: "key", widget: "string" }
             - { label: "Kolejność", name: "order", widget: "number" }
@@ -59,13 +61,14 @@ collections:
         - { label: "Treść", name: "body", widget: "markdown" }
     - label: "Wykłady i prelekcje"
       name: "wyklady-i-prelekcje"
-      file: "src/wyklady.md"
+      file: "src/wyklady-i-prelekcje.md"
       fields:
         - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/wyklady.njk" }
         - { label: "Tytuł", name: "title", widget: "string" }
         - label: "Pozycja w menu"
           name: "eleventyNavigation"
           widget: "object"
+          collapsed: true
           fields:
             - { label: "Tekst", name: "key", widget: "string" }
             - { label: "Kolejność", name: "order", widget: "number" }
@@ -85,6 +88,7 @@ collections:
         - label: "Pozycja w menu"
           name: "eleventyNavigation"
           widget: "object"
+          collapsed: true
           fields:
             - { label: "Tekst", name: "key", widget: "string" }
             - { label: "Kolejność", name: "order", widget: "number" }
@@ -98,6 +102,7 @@ collections:
         - label: "Pozycja w menu"
           name: "eleventyNavigation"
           widget: "object"
+          collapsed: true
           fields:
             - { label: "Tekst", name: "key", widget: "string" }
             - { label: "Kolejność", name: "order", widget: "number" }

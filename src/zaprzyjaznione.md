@@ -34,4 +34,12 @@ zaprzyjaznione:
     opis: Bardzo mi bliska inicjatywa polskich naukowców.
     link: https://naukadlaprzyrody.pl/
     logo: naukadlaprzyrody.png
+  - nazwa: Siedlisko Leluja
+    opis: To fantastyczne miejsce do spania, jedzenia i wszelakich (no prawie) szaleństw. Od lat współpracujemy przy obozach dla dzieci, wyprawach dla dorosłych, a czasem oprowadzam lelujowych gości.
+    link: https://siedliskoleluja.pl/
+    logo: siedlisko-leluja.png
+  - nazwa: Słoneczne Kajaki
+    opis: A gdybyście chcieli przepłynąć się ze mną kajakiem po Narwi i poznać okoliczną przyrodę od wody, to polecam Słoneczne Kajaki. Beze mnie też możecie popłynąć z Michałem ;-)
+    link: http://www.slonecznekajaki.pl/
+    logo: sloneczne-kajaki.png
 ---

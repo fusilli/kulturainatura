@@ -1,0 +1,11 @@
+---
+title: Nie wszystko jest biało-czarne
+date: 2021-06-30
+---
+Zwierzęta dzielimy na trzy grupy. Najliczniejszą stanowią te obojętne, których nie darzymy ani sympatią, ani antypatią. Łatwo przenieść stworzenie z tej grupy do dwóch pozostałych, pod wpływem przypadkowej informacji o danym gatunku. Drugą stanowią zwierzęta przez nas lubiane, np. sikory, wiewiórki czy słowiki. Zwykle charakteryzują się urodą, pięknym śpiewem lub pożytecznością dla ludzi, nierzadko wszystkimi tymi cechami. W trzeciej grupie znajdują się zwierzęta nielubiane, o szemranej renomie. Zapraszam na opowieść o (nie do końca) czarnym charakterze.
+
+Sroce, bo o niej mowa, zwykle urody nie odmawiamy. Wprawdzie ma jedynie dwa kolory, za to bardzo ładnie rozłożone, a czerń urzekająco opalizuje. Jednak jej głos, niezbyt przyjemne skrzeczenie, nie przysparza sympatii. Ponieważ sroki są ptakami towarzyskimi, hałaśliwe spędy nie należą do rzadkości. Szczególnie w miastach, gdzie są dość liczne, choć zamieszkują je od niedawna – zaczęły je zasiedlać pół wieku temu. To od mieszkańców miast słyszę najczęściej, że srok jest za dużo i ciągle ich przybywa. Z przybywaniem sprawa nie jest oczywista. W skali Polski sroki wykazują stabilną liczebność, mniej więcej 410 tys. par, plus minus 20 tys. Diabeł tkwi w szczegółach, sroki zdają się podążać za światowym trendem i w aglomeracjach ich liczebność rośnie, ale już w tradycyjnym dla nich krajobrazie wiejskim maleje. W miastach mają dobre warunki, dużo jedzenia i stosunkowo mało wrogów, chociaż to się zmienia. Za Odrą srok w miastach nieznacznie ubywa, na co wpływ mogą mieć jastrzębie, coraz liczniej zamieszkujące niemieckie aglomeracje. W Berlinie populacja jastrzębi jest oceniana na 200 par. W naszych miastach na razie są rzadkie, ale to pewnie kwestia czasu. Dotyczy to również innych sroczych wrogów, z których część już zadomowiła się w wielu miastach, tak jak kuny i wrony.
+
+***
+
+Całość można przeczytać w Tygodniku Przegląd z 1 marca 2021 r.: https://www.tygodnikprzeglad.pl/nie-wszystko-jest-bialo-czarne/

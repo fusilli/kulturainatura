@@ -6,6 +6,8 @@ eleventyNavigation:
   key: Wykłady i prelekcje
   order: 3
 wyklady:
+  - tytul: Cztery pory roku
+    opis: Cykl czterech (z możliwością rozszerzenia do pięciu lub sześciu) wykładów, opisujących przemiany zachodzące w przyrodzie w rocznym cyklu.
   - tytul: Miejska dżungla czy betonowa pustynia?
     opis: Rzecz o zwierzętach mieszkających w miastach.
   - tytul: Jak pomagać zwierzętom?

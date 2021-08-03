@@ -1,6 +1,7 @@
 ---
 layout: layouts/home.njk
 title: Kultura i Natura
+description: Działamy w przyrodzie – wycieczki, spacery, badania, wykłady i prelekcje.
 ---
 <img src="/img/ptak.jpg" alt="" class="float-right ml-2 -mt-8 lg:-mr-4 multiply w-1/3 sm:w-1/4 lg:w-auto" loading="lazy" width="280" height="400">
 

@@ -1,6 +1,7 @@
 ---
 layout: layouts/default.njk
 title: Badania
+description: Inwentaryzacje przyrodnicze, monitoringi, nadzór porealizacyjny.
 eleventyNavigation:
   key: Badania
   order: 4

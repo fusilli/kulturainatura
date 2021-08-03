@@ -1,6 +1,7 @@
 ---
 layout: layouts/zaprzyjaznione.njk
 title: Zaprzyjaźnione
+description: Inicjatywy zaprzyjaźnione z Kulturą i Naturą, albo przez nas lubiane.
 eleventyNavigation:
   key: Zaprzyjaźnione
   order: 7

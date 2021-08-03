@@ -1,6 +1,7 @@
 ---
 layout: layouts/wyprawy.njk
 title: Wyprawy i spacery
+description: Wyprawy i spacery na Kurpie Białe, Ziemia Łódzka, Mazowsze, Roztocze, Podlasie, Wielkopolska, Jura Krakowsko-Częstochowska, Pomorze.
 eleventyNavigation:
   key: Wyprawy i spacery
   order: 2

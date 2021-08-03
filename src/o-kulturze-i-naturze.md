@@ -1,6 +1,7 @@
 ---
 layout: layouts/default.njk
 title: O Kulturze i Naturze
+description: Kultura i Natura – przyrodnicze gawędy, przyrodnicze zajęcia dla dzieci i dorosłych, badania przyrodnicze, Kurpie Białe.
 eleventyNavigation:
   key: O nas
   order: 1

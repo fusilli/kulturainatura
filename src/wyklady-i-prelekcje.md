@@ -1,6 +1,7 @@
 ---
 layout: layouts/wyklady.njk
 title: Wykłady i prelekcje
+description: "Wykłady i prelekcje: miejska dżungla, drapieżcy, roślinożercy, kamuflaż, przyroda wiejska, las, góry, Bałtyk, rzeki, jeziora, ochrona przyrody, seks wśród zwierząt, martwe drzewa."
 eleventyNavigation:
   key: Wykłady i prelekcje
   order: 3

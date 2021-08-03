@@ -1,6 +1,7 @@
 ---
 layout: layouts/napisane.njk
 title: Napisane
+description: Artykuły prasowe i książki przyrodnicze.
 eleventyNavigation:
   key: Napisane
   order: 5

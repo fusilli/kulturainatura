@@ -98,7 +98,7 @@ wyklady:
     opis: Warszawa to wielka metropolia, wydawałoby się w całości z betonu, stali i aluminium. Tymczasem i ona ma swoje zielone oazy, rezerwaty przyrody. Cykl wykładów przybliża je mieszkańcom stolicy.
   - tytul: Skarby podlaskiej przyrody
     opis: Województwo Podlaskie jest jednym z najbogatszych przyrodniczo regionów Polski. Cykl wykładów przybliży klejnoty koronne i mniejsze perełki z tego obszaru.
-  - tytul: Jakiś tytuł!
-    opis: Cykle wykładów prezentujące polskie parki narodowe, rezerwaty, obszary NATURA 2000 i inne formy ochrony przyrody.
+  - tytul: Ochrona ojczystej przyrody
+    opis: Na Państwa życzenie mogę zaprezentować obszary chronione z wybranego obszaru lub prezentujące rozmaite obszary chronione w Polsce, takie jak parki narodowe rezerwaty czy obszary Natura 2000. W opowieści znajdzie się wyjaśnienie, co każda z form ochrony przyrody oznacza, jakie w niej panują zasady i przede wszystkim, czym konkretne obszary się charakteryzują, z prezentacją gatunków w niej występujących.
 ---
 Chcieliby Państwo posłuchać wykładu na inny temat? Mogę go opracować dla Państwa, lub pomóc w kontakcie ze specjalistami np. od roślin, motyli czy pająków.

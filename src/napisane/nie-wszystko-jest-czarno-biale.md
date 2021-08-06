@@ -1,6 +1,6 @@
 ---
 title: Nie wszystko jest biało-czarne
-date: 2021-06-30
+date: 2021-08-06T00:30:00
 ---
 Zwierzęta dzielimy na trzy grupy. Najliczniejszą stanowią te obojętne, których nie darzymy ani sympatią, ani antypatią. Łatwo przenieść stworzenie z tej grupy do dwóch pozostałych, pod wpływem przypadkowej informacji o danym gatunku. Drugą stanowią zwierzęta przez nas lubiane, np. sikory, wiewiórki czy słowiki. Zwykle charakteryzują się urodą, pięknym śpiewem lub pożytecznością dla ludzi, nierzadko wszystkimi tymi cechami. W trzeciej grupie znajdują się zwierzęta nielubiane, o szemranej renomie. Zapraszam na opowieść o (nie do końca) czarnym charakterze.
 

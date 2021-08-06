@@ -1,6 +1,6 @@
 ---
 title: Wirtuoz co łzy wyciska
-date: 2021-06-22
+date: 2021-08-06T00:22:00
 ---
 Ponieważ słowik ma pewne zdolności pedagogiczne, o czym niżej, toteż jego postać odrodzeniowi poeci, tacy jak Ignacy Krasicki, Adam Naruszewicz czy Stanisław Jachowicz, używali do moralizowania. Ten ostatni w wierszu *Słowik i kukułka*, konfrontuje śpiew obu gatunków. Gawiedź chętnie naśladuje kukułkę, śpiewu słowika nikt nie próbuje, co jest powodem chełpliwości kukułki. Wówczas na scenę wkracza pasterka, zasłuchana w słowika, wzrusza się, *Po rumianych jagodach łza się potoczyła*, co słowik uznaje za *tryumf prawdziwy* gdyż *Nad wszystkie wieńce sławy, milsza mi łza cicha*. Wątpię by Hans Chrystian Andersen czytał polskich poetów, mimo to podobną figurę literacką zastosował w *Słowiku* bodaj najsłynniejszej swej bajce. W niej słowik odrzuca dworskie zaszczyty, zadowalając się łzą cesarza. Na koniec swym śpiewem ratuje życie i zdrowie monarchy, choć ten wcześniej wzgardził pierzastym przyjacielem, przedkładając nad jego śpiew występy nakręcanej lalki.
 

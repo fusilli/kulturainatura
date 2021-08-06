@@ -1,6 +1,6 @@
 ---
 title: Nieobyczajny ptakt
-date: 2021-06-11
+date: 2021-08-06T00:11:00
 ---
 Wieczni kawalerowie zajmują rozległe obszary, nakładające się na terytoria kilku panien. One z kolei nie są przywiązane do jednego kawalera i spotykają się na schadzkach ze wszystkimi okolicznymi chłopakami, o ile ci przypadną im do gustu. To sprawia, że niekiedy każdy pisklak w gnieździe ma innego ojca. Tak unikalny sposób przedłużania gatunku (dość niefortunny termin, ponieważ chodzi raczej o przekazanie własnych genów), wymusił równie unikalne zachowania godowe. Jeśli jakiejś pannie wpadnie w oko kawaler, dochodzi do zbliżenia. Trwa ono 40 minut, co w świecie ptaków jest wyjątkowo długą schadzką, w czasie której ptaki wielokrotnie kopulują. Dzięki temu samiec wprowadza wielokrotnie nasienie, ma też nadzieję, że w tak długim czasie dotrze ono dość daleko, by zapłodnić jajo, nim chwilowej narzeczonej wpadnie w oko inny kawaler. Zapewne dziewczyny myślą wtedy: „skoro nie będę miała z niego pożytku przy wychowywaniu potomstwa, to niech chociaż wykaże się wcześniej”.
 

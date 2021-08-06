@@ -1,6 +1,6 @@
 ---
 title: Stracone gatunki
-date: 2021-07-02
+date: 2021-08-06T00:32:00
 ---
 W grudniu ukazała się „Czerwona lista ptaków Polski”. To dokument wskazujący zagrożone gatunki, z podziałem na stopień zagrożenia, opisem sytuacji ptaka i przyczyn, dla których znalazł się na liście. Od wydania poprzedniego podobnego dokumentu minęło 20 lat. Obecna lista jest dłuższa, wylicza więcej gatunków, które utraciliśmy.
 

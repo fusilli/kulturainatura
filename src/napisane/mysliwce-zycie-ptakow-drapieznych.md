@@ -1,6 +1,6 @@
 ---
 title: Myśliwce. Życie ptaków drapieżnych
-date: 2021-06-27
+date: 2021-08-06T00:27:00
 ---
 Wykarmienie młodych kosztuje ptaki wiele zachodu. Taczanowski w książce O ptakach drapieżnych… żalił się, że wyrośnięte rybołowy, które hodował, „zjadały naraz po sześć karasiów średniej wielkości i to po kilka razy na dzień zdolne były powtarzać; widoczna zatem, ile rodzice wtenczas żywności im muszą dostawiać”. Para rybołowów, której uda się odchować dwójkę młodych, w ciągu sezonu lęgowego złowi około stu siedemdziesięciu kilogramów ryb, czyli ponad półtora kilograma dziennie. Ptakom zdarza się złapać większą rybę, która może zaspokoić rodzinne zapotrzebowanie na dłuższy czas, przeważnie jednak zdobycie pokarmu wymaga wielu lotów i łowów, ponieważ częściej rybołowy łapią odpowiedniki wspomnianych „karasiów średniej wielkości”.
 

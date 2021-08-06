@@ -1,6 +1,6 @@
 ---
 title: Nad rzeczką, opodal krzaczka
-date: 2021-07-04
+date: 2021-08-06T00:34:00
 ---
 „Morza szum, ptaków śpiew / Złota plaża pośród drzew”. Niestety, artyści często rozmijają się z przyrodniczą rzeczywistością – latem ptaki kończą lęgi i milkną. Większość nie ma powodu do śpiewu, ani partnerki wabić nie trzeba, ani terytorium utrzymywać. Czas odpocząć i zmienić piórka. Sytuację ratują kaczki, które w tym czasie wodzą pisklęta.
 

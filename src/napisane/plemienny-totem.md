@@ -1,6 +1,6 @@
 ---
 title: Plemienny totem
-date: 2021-07-01
+date: 2021-08-06T00:31:00
 ---
 Z pierwszymi pomrukami odwilży, jeszcze w lutym, usłyszałem sakramentalne, coroczne „bociany już w drodze?”. Te, które zimowały w południowej Afryce, już były w drodze. Te, które pofatygowały się jedynie na południe od Sahary, jeszcze nie. Informowałem grzecznie i wyczerpująco, ale jako zimoluba drażniło mnie to pytanie.
 

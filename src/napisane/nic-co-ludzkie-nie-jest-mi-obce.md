@@ -1,6 +1,6 @@
 ---
 title: Nic, co ludzkie, nie jest naturze obce
-date: 2021-06-28
+date: 2021-08-06T00:28:00
 ---
 Część zwierząt potrafi zmieniać płeć gdy brakuje partnerów, np. niektóre płazy, co wykorzystał Spielberg w „Jurassic Park”. U innych płeć nie jest zapisana w genach, a zależy od temperatury inkubacji jaj. To przypadek częsty u gadów. U jeszcze innych samce w ogóle nie występują lub pojawiają się sezonowo. Przykładowo u wielu mszyc czy rozwielitek od wiosny do jesieni są tylko samice, które rozmnażają się partenogenetycznie, czyli za pomocą dzieworództwa. Samce pojawiają się jesienią, a jaja złożone z kontaktu płciowego są odporne na przemarzanie. Na Kaukazie żyją jaszczurki z rodzaju Darevskia sp., których niektóre przedstawicielki zupełnie obywają się bez samców. U bezkręgowców ten sposób również nie jest popularny, ale łatwiej o przykłady i to spektakularne. Wrotki bdelloidowe, zamieszkujące m.in. kałuże, mchy, wilgotną glebę, a nawet krople rosy, od 85 milionów lat obywają się bez chłopa. Zamieszkująca zbiorniki okresowe przekopnica właściwa i część jej krewnych, również pozbyły się samców i radzą sobie całkiem dobrze od 220 milionów lat w niezmienionej formie, czym zyskały miano „żywej skamieniałości”.
 

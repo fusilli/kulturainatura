@@ -1,6 +1,6 @@
 ---
 title: Kruki takie jak my
-date: 2021-06-19
+date: 2021-08-06T00:19:00
 ---
 W mitach i legendach wszystkich części świata, gdzie ptaki te żyją, mowa jest o tym, że kiedyś były białe. Eskimosi wierzyli, że kruki i sowy były białe i żyły w przyjaźni. Ptaki niezadowolone ze swojej barwy postanowiły się pomalować, kruk pięknie i wzorzyście ozdobił sowę, ta jednak była zbyt leniwa i wylała farbę na kruka, co zakończyło przyjaźń. Wg starożytnych Greków, kruk stał się czarny, po tym jak doniósł Apollinowi, że jego kochanka zdradza go z jego synem. Zazdrosny bóg przeklął ptaka, wskutek czego miał szczernieć. Wg innych Hellenów ptak przynosił wiadomości ze świata Atenie, zarówno dobre, jak i złe, przy każdej złej wiadomości czerniało mu jedno pióro, przy dobrej bielało. Niestety dobre wieści do dziś są deficytowe. W roli dziennikarzy kruki zatrudniał też Odyn. Najstarsze odnalezione w Polsce szczątki kruka pochodzą sprzed ok. 55-70 tys. lat, jednak na ich podstawie nie sposób dojść barwy ptaka.
 

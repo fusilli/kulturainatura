@@ -1,6 +1,6 @@
 ---
 title: Bieliki są trochę jak my
-date: 2021-07-03
+date: 2021-08-06T00:33:00
 ---
 Kilka tygodni temu prowadziłem  wycieczkę przyrodniczą po rezerwacie zlokalizowanym na stawach rybnych. Blisko stawów gniazduje para bielików i liczyłem na ich pokazanie zwiedzającym oraz opowieści o tych ptakach i ich ochronie. Rzeczywistość znacznie przewyższyła oczekiwania – na miejscu zastaliśmy cztery bieliki, dwa dorosłe i dwa młode (podczas kolejnej wizyty dostrzegłem, że młode były w drugim i trzecim roku życia). W pewnym momencie zobaczyliśmy, jak jeden z dorosłych ptaków opada na rozpostartych skrzydłach, wyciąga przed siebie łapy, uderza o taflę wody i podrywa się z rybą. Nasze emocje już były podkręcone, ale moje osiągnęły ekstremum, gdy dorosły bielik rzucił zdobycz w kierunku młodziaka, który schwytał ją w locie. Koleżanka z Siedliska Leluja, która organizowała wyprawę, widząc moją reakcję, stwierdziła, że za kolejną wyprawę to ja płacę uczestnikom.
 

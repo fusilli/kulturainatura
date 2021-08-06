@@ -1,6 +1,6 @@
 ---
 title: Ptasi król
-date: 2021-06-29
+date: 2021-08-06T00:29:00
 ---
 Polacy uważają, że ryby to nie zwierzęta, co zapewne wynika z religii i przyzwolenia na jedzenie ryb w czasie postu. Pieczarka to nie grzyb, choć właśnie od pieczarek pochodzi „rosnąć jak grzyby po deszczu”. I jeszcze drób to nie ptaki (takie przekonanie wyrażają czasem nawet nauczyciele biologii). Szerzej, ptaki to nie zwierzęta. A właściwie zwierzęta, ale „takie inne”, jak mnie poinstruowano w dzieciństwie. Zapewne dlatego ptaki mają króla niezależnego od lwa. Zapraszam na opowieść o ptasim władcy.
 

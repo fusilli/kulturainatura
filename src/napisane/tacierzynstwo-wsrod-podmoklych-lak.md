@@ -2,9 +2,22 @@
 title: Tacierzyństwo wśród podmorskich łąk
 date: 2021-08-06T00:04:00
 ---
+**Facet w ciąży… Niemożliwe! A jednak. Nienaturalne! Naturalne. Takie rzeczy dzieją się w Polsce od dawna – w Bałtyku. Ale ciężarnym mężczyznom i ich partnerkom grozi wyginięcie…**
+
+## Igła w stogu podmorskiego siana
+
+Wiele organizmów żywych opanowało sztukę kamuflażu, do jej mistrzów należą niewielkie rybki – iglicznie. Dlatego właśnie często się zdarza, że zwiedzający odchodzą od akwariów pokazowych zawiedzeni, że nie ma w nich żadnych ryb. Iglicznie żyją pośród trawopodobnych roślin morskich, do których silnie się upodobniają. Ich wydłużony i spłaszczony kształt przypomina liść trawy, długi na ok. 30 cm; samce najczęściej są zielone, samice często przybierają jesienną, czerwonobrązową barwę. Ponieważ „trawy” rosną do góry, ryba zmieniła „naturalne” ułożenie na spionizowane, a ściślej – zazwyczaj nieco pochylone, na wzór otaczających ją roślin. Zwykle kołysze się w takt ich ruchu. Towarzyszy temu silna redukcja płetw, a najsilniej rozwinięta płetwa grzbietowa pełni funkcję, jaką u większości ryb spełnia płetwa ogonowa – steru i napędu. Wśród podmorskich traw iglicznia ukrywa się przed drapieżnikami i poluje. Ofiarami są niewielkie skorupiaki, które zasysa, gdy przepływają w pobliżu jej rurkowatego pyszczka. Ponoć słychać przy tym ni to pstryknięcie, ni to siorbnięcie. Iglicznie można spotkać wzdłuż europejskich wybrzeży, od Morza Azowskiego po Bałtyk.
+
+## Facet z ciążowym brzuszkiem
+
+U niektórych ryb występuje sprawowanie opieki nad dziećmi, czego nieco częściej podejmują się panowie niż panie. Są gatunki, które „wymyśliły” karmienie potomstwa wydzielinami własnego ciała, jak to ma miejsce u ssaków. Jednak wszystko to blaknie przy wyczynie igliczni, u której to mężczyźni pływają w ciąży!
+
+W czasie tarła w końcowej części ciała dżentelmenom wyrastają torby lęgowe. Po tańcu godowym panie wsuwają do nich brodawkowate pokładełko, za pomocą którego składają ponad 20 jaj. Zdeponowane w torbie jaja są zapładniane. Torba strukturą przypomina łożysko, dzięki czemu tatuś zapewnia rozwijającym się zarodkom tlen i pokarm. Przyjście na świat jest dość dramatyczne, torba jest dosłownie rozrywana przez coraz silniej poruszające się, w pełni ukształtowane rybki wielkości 2-3 cm. Na szczęście samiec przeżywa to wydarzenie i w kolejnym sezonie znów może zajść w ciążę.
+
 Odwrócenie tradycyjnych ról płciowych jest charakterystyczne dla całej rodziny igliczniowatych, obejmującej ponad 260 gatunków, przy czym niektóre potrafią zadziwić jeszcze bardziej niż bohaterka tego odcinka. Przykładowo u Syngnathus scovelli, żyjącej u zachodniego wybrzeża obu Ameryk, panowie dają się uwodzić dziewczynom, zwykle więcej niż jednej (niestety o tej części obyczajowości mieszkanek Bałtyku niewiele wiadomo). Jeśli się zdarzy, że samiec zajdzie w ciążę z partnerką lub partnerkami, które z jakiegoś powodu mu nie odpowiadają, wówczas pozbywa się całości lub części rozwijającego się potomstwa. Z kolei u igliczni większej, zamieszkującej zachodnie i południowe wybrzeża Europy, potomstwo wydostaje się przez podłużną szczelinę w torbie brzusznej, zaś u bliskich krewnych igliczni, koników morskich, tatusiowie rodzą w bólach, przy silnych skurczach porodowych. Z gatunków pokrewnych w naszym morzu możemy jeszcze spotkać wężynkę, jednak u niej panowie nie mają torby lęgowej, a jedynie zagłębienie, do którego samica przykleja ikrę. W kwestii prokreacji chłopcy wężynek wypadają zatem niezbyt heroicznie.
 
-***
+## Zanik
 
-Całość w magazynie „Nowe Peryferie”  
-<https://nowe-peryferie.pl/index.php/2017/02/tacierzynstwo-wsrod-podmorskich-lak/>
+Niestety, spotkanie z iglicznią na polskim wybrzeżu jest niezmiernie trudne i z tego powodu podlega ona ochronie gatunkowej. Polska Czerwona Księga Zwierząt sklasyfikowała ją jako krytycznie zagrożoną (o stopień wyżej w hierarchii zagrożeń umieszcza się gatunki wymarłe na terytorium naszego kraju). Jej zanik zaobserwowano już w okresie międzywojennym. Mimo to jeszcze w latach 70. był to gatunek liczny na naszym wybrzeżu. Obecna wielkość populacji nie jest znana. O ile jednak w badaniach kontrolnych sprzed 40-50 lat w jednym połowie wyciągano kilkadziesiąt, a nawet kilkaset rybek, o tyle dziś najczęściej nie udaje się wyłowić ani jednej. Główną przyczyną jest dewastacja podwodnych łąk, na skutek rozwoju „plażingu” i towarzyszącej mu infrastruktury. Jeśli chcemy, by ta niezwykle ciekawa ryba przetrwała, to konieczne jest przywrócenie podwodnych łąk, prawdopodobnie przesiedlenie osobników z sąsiednich rejonów, a przede wszystkim stworzenie rezerwatów morskich, których liczba w Polsce wynosi… zero.
+
+<em>Ilustracja: <a href="https://pl.wikipedia.org/wiki/Iglicznia_(ryba)#/media/File:Syngnathus_typhle1.JPG">Wikipedia</a></em>

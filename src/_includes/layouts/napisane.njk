@@ -6,7 +6,6 @@ layout: layouts/default.njk
 {% for item in collections.napisane | reverse %}
   <li class="mt-0">
     <h2 class="h3 mb-3 sm:mb-6"><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
-    {{ item.template.frontMatter.content | truncate(180) | md | safe }}
   </li>
 {% endfor %}
 </ul>

@@ -1,0 +1,10 @@
+---
+title: Współpraca popłaca
+date: 2021-12-21T11:04:52.799Z
+---
+Niedawno miałem przyjemność prowadzić w jednym ze stołecznych parków spacer grupy osób z Ośrodka Wsparcia dla Seniorów „Pod Jaworami” na warszawskiej Woli. Najwięcej emocji podczas tego spaceru wzbudziło spotkanie z raniuszkami, ptaszkami o białym korpusie i główce, z ciemnymi skrzydłami i ogonkiem. Wprawdzie ptak może mieć długość nawet 16 cm, ale dwie trzecie tego przypada na ogon. Tak niezwykła budowa idąca w parze z niebywałą urodą zawsze zapewnia efekt „łał!”.
+Raniuszki najłatwiej spotkać właśnie teraz, jesienią i zimą, kiedy ich grupki łączą się w stadka, często z sikorami, kowalikami, pełzaczami i inną ptasią drobnicą. Przemierzają lasy, parki i różne zadrzewione miejsca, dodatkowo do naszych, osiadłych ptaków dołączają pobratymcy ze wschodu i północy, a niekiedy w poszukiwaniu pokarmu również z zachodu. Tu należy nieco sprostować informację o białych główkach – otóż ptaki z zachodniej Europy należą do innego podgatunku, zwanego raniuszkiem czarnobrewym, charakteryzującego się ciemnymi pasami nad okiem, sięgającymi karku. Czarnobrewi krewni zamieszkują też nielicznie południowo-zachodnią Polskę, choć zdaje się, że nie wszystkie raniuszki o tym wiedzą. Niedawno kolega wspominał, że w swoim regionie, na północno-wschodnim Mazowszu, widywał pary mieszane obu podgatunków. Ogółem raniuszki zamieszkują olbrzymi obszar od zachodnich wybrzeży Europy, przez całą umiarkowaną klimatycznie Azję, aż po Japonię. Na tak rozległym terenie wykształciły ok. 16 podgatunków, choć jeden, występujący w Chinach, niedawno podniesiono do rangi osobnego gatunku, zwanego raniuszkiem czarnołbistym.
+
+- - -
+
+Całość można przeczytać na łamach [Tygodnika Przegląd z 22 listopada 2021 r.](https://www.tygodnikprzeglad.pl/wspolpraca-poplaca/)

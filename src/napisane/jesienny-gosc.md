@@ -1,0 +1,8 @@
+---
+title: Jesienny gość
+date: 2021-12-21T10:58:50.528Z
+---
+Krótko po przeprowadzce na Kurpie jechałem na targ do Rząśnika. Tuż przed miejscowością stołeczną mojej gminy przeleciało nad drogą kilka małych sokołów. To były kobczyki, o których wiedziałem, że kręcą się w pobliżu. Natychmiast zatrzymałem się na poboczu i wyskoczyłem z samochodu, konstatując, że… nie mam lornetki. Od tamtej pory nawet do sklepu we wsi obok jeżdżę z lornetką, a gdy jej zapomnę, potrafię zawrócić, co już nieraz mi się opłaciło. Przynajmniej jeśli chodzi o spotkania z ptakami. Zaraz po owych zakupach na targu pojechałem na Pulwy, ale bez powodzenia. Podobnie było w kolejnych dniach, ptaki odleciały w sobie tylko znane miejsce. Jesienią potrafią przemieścić się na spore odległości, jeśli akurat nie ma pokarmu w danym miejscu.
+Tegoroczna jesień jest o wiele szczęśliwsza. Przed tygodniem miałem przyjemność prowadzić wycieczkę w ramach Festiwalu Krajoznawczego „Na Dwór”, zorganizowanego przez Towarzystwo Krajoznawcze Krajobraz, na pograniczu Puszczy Białowieskiej i zalewu Siemianówka. W trakcie spaceru zdarzyło nam się dostrzec młodego kobczyka, siedzącego na linii energetycznej niskiego napięcia. Kobczyki należą do najbarwniejszych ptaków drapieżnych i jak u niewielu innych sokołów płcie znacznie różnią się ubarwieniem.
+***
+Całość w [Tygodniku Przegląd z 13 września 2021 r](https://www.tygodnikprzeglad.pl/jesienny-gosc/).

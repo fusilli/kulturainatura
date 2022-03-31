@@ -2,7 +2,7 @@
 title: Dzikie dzieci
 date: 2022-03-31T09:54:25.326Z
 foto:
-  plik: scr/img/dzikie_dz2.jpg
+  plik: img/dzikie_dz2.jpg
   opis: Zdjęcia z obozu
   podpis: Siedlisko Leluja
 ---

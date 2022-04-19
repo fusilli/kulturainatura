@@ -12,4 +12,4 @@ Warto wspomnieć o zaobserwowanej przez tegoż badacza sytuacji, gdy samica spra
 
 - - -
 
-Całość w Tygodniku PRZEGLĄD z 11 kwietnia 2022 r.
+Całość w [Tygodniku PRZEGLĄD z 11 kwietnia 2022 r.](https://www.tygodnikprzeglad.pl/grozne-malenstwo/)

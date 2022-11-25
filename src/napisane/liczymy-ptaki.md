@@ -1,0 +1,11 @@
+---
+title: Liczymy ptaki
+date: 2022-11-25T09:23:03.034Z
+---
+Najczęściej zadawane pytanie brzmi: jak wy je liczycie? Przecież one się ruszają! Wbrew pozorom nie jest to aż tak trudne. Oczywiście konieczne są odrobina wprawy i znajomość biologii ptaków, ale nikt nie puszcza żółtodzioba od razu na badania terenowe. Jeśli ktoś lubi ptaki, czyta o nich i je obserwuje, szybko nabiera stosownych umiejętności, zwłaszcza pod okiem kogoś doświadczonego. Nie bez znaczenia jest termin wykonywania badań. Zwykle celuje się w czas godów poszczególnych gatunków lub ich grup. W okresie tym ptaki, a przynajmniej jedna płeć, są mniej mobilne, ponieważ zajmują terytoria, których bronią przed rywalami. Tu konieczna jest znajomość ptasich głosów. To również umiejętność, którą trzeba zdobyć w terenie, ale jest wiele pomocy do nauki (polecam płytę „Jaki to ptak” Tomasza Ogrodowczyka). W tym czasie ptaki są mniej ruchliwe, zwykle śpiewają z jednego miejsca, co oznacza nieraz konkretną gałąź, a innym razem pewien obszar. Są poza tym rzeczy, których trzeba doświadczyć, inaczej trudno się połapać. Sztandarowym przykładem może być dudek lub kukułka. Ptaki te słychać z dużych odległości, do tego potrafią śpiewać z różnych punktów. Przy znaczących odległościach dźwięk płata figle, odbijając się od ścian budynków czy lasu. Łatwo wówczas policzyć jednego ptaka jako dwa.
+
+Nieco inaczej rzecz się ma z ptakami w czasie migracji lub zimowania. Podczas przelotów na wybrzeżu czy przełęczach górskich sprawa jest prosta, ale komplikuje się na nizinach. Bywa, że żurawie czy niektóre drapieżne nie lecą liniowo, lecz kołują. Trzeba wówczas wykazać się czujnością, by ptaków nie policzyć dwukrotnie. Trzeba też nią się wykazać w przypadku ptaków zimujących na rzekach. Spłoszone obecnością obserwatora – odlatują. Należy zapamiętać, ile ptaków poleciało i w którym kierunku. Kiedy za parę kilometrów znów spotkamy ptaki tego samego gatunku i podobnej liczebności, będą to najprawdopodobniej nasi uciekinierzy.
+
+- - -
+
+Całość w [Tygodniku PRZEGLĄD z 6 czerwca 2022 r.](https://www.tygodnikprzeglad.pl/liczymy-ptaki/)

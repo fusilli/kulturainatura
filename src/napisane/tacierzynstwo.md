@@ -1,0 +1,9 @@
+---
+title: Tacierzyństwo
+date: 2022-11-25T09:37:13.716Z
+---
+A gdyby spełnić sny specjalistów od „prawa naturalnego”? U niektórych ptaków siewkowatych samice porzucają lęgi i partnera, nim pisklęta urosną. Maluchy zostają pod czułą opieką taty. U tych gatunków nawet upierzenie samic bywa ładniejsze niż samców, zdaje się, że nie tylko dla naszego oka. Jednak mistrzami odwróconych ról płciowych są ryby z rodziny igliczniowatych, u których to panowie pływają w ciąży. Przedstawicieli tej rodziny znajdziemy w Bałtyku. Jednym z nich jest wężynka. Samica za pomocą pokładełka, które jako żywo przypomina penisa, składa jaja do fałd skórnych na brzuchu samca. Tam następuje zapłodnienie plemnikami, ale to samiec pływa w ciąży. Gdy jaja dojrzeją, narybek spokojnie opuszcza ojcowskie fałdki. Nieco bardziej dramatycznie wygląda to u drugiego gatunku naszych igliczniowatych – igliczni. W ogólnym zarysie przebiega to podobnie, ale jaja znajdują się w torbie skórnej. Narybek, który opuszcza ojca, musi ją rozerwać. Spokojnie, torba się zrasta. Niestety, ryba ta jest na polskim wybrzeżu krytycznie zagrożona, ale czemu tu się dziwić w kraju, który nie toleruje ideologii gender (na wszelki wypadek wyjaśnię, że za zanik igliczni na naszym wybrzeżu odpowiada zanieczyszczenie wody oraz niszczenie siedlisk, czyli podmorskich łąk z morskiej trawy). Najdalej natomiast na drodze zamiany ról posunęły się pławikoniki, zwane konikami morskimi. U nich obserwujemy skurcze porodowe i porody przypominające ssacze.
+
+- - -
+
+Całość w [Tygodniku Przegląd z 9 czerwca 2022 r.](https://www.tygodnikprzeglad.pl/tacierzynstwo-2/)

@@ -114,6 +114,20 @@ collections:
             - { label: "Opis", name: "opis", widget: "markdown" }
             - { label: "Link", name: "link", widget: "string" }
             - { label: "Logo", name: "logo", widget: "string" }
+    - label: "Zniżki"
+      name: "znizki"
+      file: "src/znizki.md"
+      fields:
+        - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/default.njk" }
+        - { label: "Tytuł", name: "title", widget: "string" }
+        - label: "Pozycja w menu"
+          name: "eleventyNavigation"
+          widget: "object"
+          collapsed: true
+          fields:
+            - { label: "Tekst", name: "key", widget: "string" }
+            - { label: "Kolejność", name: "order", widget: "number" }
+        - { label: "Treść", name: "body", widget: "markdown" }
   - label: "Napisane"
     name: "napisane"
     folder: "src/napisane"

@@ -10,4 +10,4 @@ eleventyNavigation:
 <img src="/img/karta-duzej-rodziny.png" alt="Naklejka Karta Dużej Rodziny" class="shadow-lg rotate-r" loading="lazy" width="394" height="368">
 </figure>
 
-Kultura i Natura jest partnerem rządowego programu Karta Dużej Rodziny. W związku z tym **każda** duża rodzina, która zadeklaruje wychowywanie trójki dzieci, otrzyma 10% zniżki na wyprawy terenowe i zajęcia edukacyjne.
+Kultura i Natura jest partnerem rządowego programu Karta Dużej Rodziny. W związku z tym **każda** duża rodzina, która zadeklaruje wychowywanie przynajmniej trójki dzieci, otrzyma 10% zniżki na wyprawy terenowe i zajęcia edukacyjne.
